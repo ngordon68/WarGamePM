@@ -110,7 +110,7 @@ func makeDeckOfCards() {
  
  
  */
-
+//
 var warStash:[CardModel] = []
 var isNumbersTheSame:Bool = false
 
